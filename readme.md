@@ -4,8 +4,6 @@ This is an implementation of the Lp-dist field approach for smoothly approximati
 
 
 ## Reference
-
-If you find this work useful, please consider citing: 
 ```
 @article{belyaev2013signed,
   title={Signed Lp-distance fields},
